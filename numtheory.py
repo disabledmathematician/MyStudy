@@ -28,7 +28,7 @@ def Charles():
 	x2 = []
 	for n in range(len(x)):
 		for e in x:
-			y.append(e ** n)
+			y.append(n ** e)
 			print("e: {}, n: {}, n ** e: {}".format(e, n, n ** e))
 #	print(x)
 #	print(len(y))
