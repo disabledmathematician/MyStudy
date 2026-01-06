@@ -1,7 +1,9 @@
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
+
 import math
+
+
+"""
+
 
 def is_prime(n):
     """Check if an integer n is a prime number."""
@@ -19,7 +21,6 @@ def is_prime(n):
     return True
  
 def Charles():
-	plt.figure(dpi=120, figsize=[12, 7])
 	x = []
 	for n in range(0, 1024):
 		if is_prime(n) == True:
@@ -29,8 +30,8 @@ def Charles():
 	for n in range(len(x)):
 		for e in x:
 			y.append(n ** e)
-			print("e: {}, n: {}, n ** e: {}".format(e, n, n ** e))
+			print("e: {}, n: {}, n ** e: {} mod e".format(e, n,(n ** e) % e))
 #	print(x)
 #	print(len(y))
-	print(y)
+#	print(y)
 if __name__ == """__main__""": Charles()
