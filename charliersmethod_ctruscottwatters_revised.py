@@ -43,6 +43,22 @@ def ctruscott_CharliersCheck():
 	print(fuplusone.sum())
 	variance = fusquaredsum / sum_f - ((fu.sum() / sum_f) ** 2)
 	print(variance)
+"""
+'u low [-4 -3 -2 -1  0] u high [1 2]
+f: [ 2  3 11 20 32 25  7]
+Sum of f: 100
+f u: [ -8  -9 -22 -20   0  25  14]
+Sum of fu: -20
+fu squared: [32 27 44 20  0 25 28]
+Sum of fu squared: 176
+f(u + 1) squared: [ 18  12  11   0  32 100  63]
+Sum of f(u + 1) squared: 236
+80
+80
+1.72
 
+[Program finished]
+
+"""'
 ctruscott_CharliersCheck()
 	
