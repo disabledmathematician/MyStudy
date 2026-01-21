@@ -9,11 +9,16 @@ def ctruscott_CharliersCheck():
 #	
 	L = np.array([34.5, 44.5, 54.5, 64.5, 74.5, 84.5, 94.5], dtype="int")
 	f = np.array([2, 3, 11, 20, 32, 25, 7], dtype="int")
-	
-	midpoint = np.median(L)
-	u_low = np.arange(0, -(len(L))// 2 - 1, -1)
+#	
+#	midpoint = np.median(L)
+	max_elem = np.where(f == max(f))[0]
+	print("L[max_elem] {}".format(L[max_elem]))
+	print("Where: {}".format(np.where(f == max(f))))
+	print("len(L) - max_elem {}".format(len(L) - max_elem - 1))
+	print("minus max_elem: {}".format(-max_elem))
+	u_low = np.arange(0, -max_elem - 1, -1)
 	u_low = u_low[::-1]
-	u_high = np.arange(1, (len(L) // 2), 1)
+	u_high = np.arange(1, len(L) - max_elem, 1)
 	print("u low {} u high {}".format(u_low, u_high))
 	print("f: {}".format(f))
 	print("Sum of f: {}".format(f.sum()))
@@ -43,22 +48,7 @@ def ctruscott_CharliersCheck():
 	print(fuplusone.sum())
 	variance = fusquaredsum / sum_f - ((fu.sum() / sum_f) ** 2)
 	print(variance)
-"""
-'u low [-4 -3 -2 -1  0] u high [1 2]
-f: [ 2  3 11 20 32 25  7]
-Sum of f: 100
-f u: [ -8  -9 -22 -20   0  25  14]
-Sum of fu: -20
-fu squared: [32 27 44 20  0 25 28]
-Sum of fu squared: 176
-f(u + 1) squared: [ 18  12  11   0  32 100  63]
-Sum of f(u + 1) squared: 236
-80
-80
-1.72
 
-[Program finished]
 
-"""'
 ctruscott_CharliersCheck()
 	
