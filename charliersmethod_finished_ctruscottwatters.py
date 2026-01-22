@@ -84,4 +84,6 @@ Sum of f(u + 1) squared: 236
 1.72
 
 [Program finished]
+
+"""
 if __name__ == """__main__""": CharlesTruscott()
