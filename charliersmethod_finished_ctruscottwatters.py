@@ -1,6 +1,4 @@
 import numpy as np
-from math import floor, ceil
-import statistics
 
 def ctruscott_CharliersCheck(L, f):
 	max_elem = np.where(f == max(f))[0]
