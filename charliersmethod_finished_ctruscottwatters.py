@@ -47,41 +47,4 @@ def CharlesTruscott():
 	f = np.array([2, 3, 11, 20, 32, 25, 7], dtype="int")
 	ctruscott_CharliersCheck(L, f)
 
-""" L[max_elem] [94]
-Where: [6]
-len(L) - max_elem [8]
-minus max_elem: [-6]
-
-u low [-6 -5 -4 -3 -2 -1  0] u high [1 2 3 4 5 6 7 8]
-f: [ 4  9 16 28 45 66 85 72 54 38 27 18 11  5  2]
-Sum of f: 480
-f u: [-24 -45 -64 -84 -90 -66   0  72 108 114 108  90  66  35  16]
-Sum of fu: 236
-fu squared: [144 225 256 252 180  66   0  72 216 342 432 450 396 245 128]
-Sum of fu squared: 3404
-f(u + 1) squared: [100 144 144 112  45   0  85 288 486 608 675 648 539 320 162]
-Sum of f(u + 1) squared: 4356
-716
-716
-6.849930555555556
-L[max_elem] [74]
-Where: [4]
-len(L) - max_elem [2]
-minus max_elem: [-4]
-u low [-4 -3 -2 -1  0] u high [1 2]
-f: [ 2  3 11 20 32 25  7]
-Sum of f: 100
-f u: [ -8  -9 -22 -20   0  25  14]
-Sum of fu: -20
-fu squared: [32 27 44 20  0 25 28]
-Sum of fu squared: 176
-f(u + 1) squared: [ 18  12  11   0  32 100  63]
-Sum of f(u + 1) squared: 236
-80
-80
-1.72
-
-[Program finished]
-
-"""
 if __name__ == """__main__""": CharlesTruscott()
