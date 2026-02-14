@@ -9,7 +9,7 @@ I love you Dad Mark William Watters, big brother Tai
 
 127 Broken Head Rd Suffolk Park NSW 2481
 
-A use case of Bisection Search to indentify primes. a log2(n) greedy algorithm
+A use case of Bisection Search to identify primes. a log2(n) greedy algorithm
 
 """
 
