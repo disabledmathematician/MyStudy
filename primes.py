@@ -20,25 +20,24 @@ def is_prime(n):
         return True
     if n % 2 == 0:
         return False
+    factors = [x for x in range(2, n)]
     low = 0
-    high = n
-    guess = (high + low) / 2.0
-    while n % guess != 0:
-    	if guess ** 2 > n:
-    		high = guess
-    		if n % guess == 0:
-    			return False
-    	elif guess ** 2 < n:
-    	 	low = guess
-    	 	if n % guess == 0:
-    	 		return False
-    	guess = (high + low) / 2.0
+    high = len(factors) - 1
+    while low <= high:
+    	mid = (high + low) // 2
+    	if n % factors[mid] == 0:
+    		return False
+    	if factors[mid] < n:
+    		low = mid + 1
+    	else:
+    		high = mid - 1
+    		
     return True
  
 def Charles():
 	txt = open("FermatNums.txt", "w+")
 	countFermat = 1
-	for n in range(0, 20):
+	for n in range(0, 7):
 		s = (2 ** 2 ** n) + 1
 		sIsPrime = is_prime(s)
 		if sIsPrime:
