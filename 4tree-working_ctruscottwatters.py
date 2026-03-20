@@ -7,13 +7,13 @@ import matplotlib.pyplot as plt
 def Plot():
     plt.figure(0, dpi=150, figsize=[12, 7])
     count = 3
-    L = [x for x in range(1, 4 **  count, 1)]
+    L = [x for x in range(1, 4 **  count + 1, 1)]
     i, j = 1, 2
     k, l = 3, 4
     x = 0
     G = nx.Graph()
 #        print(len(L))
-    while (x < math.log(len(L), 4) + 2):
+    while (x <= math.log(len(L), 4) + 1):
         print("x: {} attaches to {}, {}, {}, {}".format(x, i, j, k, l))
         G.add_edge(L[x], L[x + i], label="Fa")
         G.add_edge(L[x], L[x + j], label="Bi")
