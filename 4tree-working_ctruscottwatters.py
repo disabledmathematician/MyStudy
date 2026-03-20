@@ -5,10 +5,10 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 def Plot():
-    plt.figure(0, dpi=150, figsize=[12, 7])
+    plt.figure(0, dpi=150, figsize=[24, 12])
     G = nx.Graph()
     i, j, k, l = 1, 2, 3, 4
-    for n in range(0, 4 ** 2 - 3, 1):
+    for n in range(0, 8 - 3, 1):
     	print(n, n + i, n + j, n + k, n + l)
     	print("Connecting {} to {}, {}, {}, and {}".format(n, n + i, n + j, n + k, n + l))
     	G.add_edge(n, n + i, label="Fa")
@@ -24,7 +24,8 @@ def Plot():
     nx.draw_networkx_nodes(G, pos)
     nx.draw_networkx_edges(G, pos, width=0.5)
     nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels)
-    plt.savefig("WuHsing2.png")
+#    plt.show()
+    plt.savefig("WuHsing-8.png")
 def CharlesTruscott():
     Plot()
     
