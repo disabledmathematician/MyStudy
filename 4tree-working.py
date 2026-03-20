@@ -9,6 +9,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 def Plot():
+    plt.figure(0, dpi=150, figsize=[12, 7])
     count = 4
     L = [x for x in range(1, 4 **  count + 4, 1)]
     while count <= 4:
@@ -36,7 +37,7 @@ def Plot():
     nx.draw_networkx_nodes(G, pos)
     nx.draw_networkx_edges(G, pos, width=0.5)
     nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels)
-    plt.savefig("WuChi.png")
+    plt.savefig("WuHsing.png")
 def CharlesTruscott():
     Plot()
     
