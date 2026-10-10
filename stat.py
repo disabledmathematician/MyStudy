@@ -1,5 +1,6 @@
 from math import sqrt
-
+import matplotlib.pyplot as plt
+import random
 def Charles_Mean(L: list):
 	n = 0
 	for e in L:
@@ -29,8 +30,25 @@ def Charles_StdDev_Normal(L: list) -> float:
 	print(std)
 	return std
 	
+def Charles_NormDib(mean: float, stddev: float):
+	pi = 3.14159
+	e = 2.71828
+	y = []
+	x = [n for n in range(-10, 10)]
+	plt.figure(0)
+	for z in x:
+		nd = ((1 / (stddev * sqrt(2 * pi))) * e) ** ((z - mean) ** 2 / ((2 * stddev ** 2)))
+		y.append(nd)
+	plt.plot(x, y)
+	plt.show()
+	
 def Charles():
-	L = [2, 4, 8, 1]
-	Charles_StdDev_SquareMean(L)
+#	L = [2, 4, 8, 1]
+	L = []
+	for n in range(-30, 30):
+		L.append(n)
+	stddev = Charles_StdDev_SquareMean(L)
+	mean = Charles_Mean(L)
 	Charles_StdDev_Normal(L)
+	Charles_NormDib(0, 2.14)
 Charles()
