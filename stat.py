@@ -17,7 +17,7 @@ def Charles_StdDev_SquareMean(L: list) -> float:
 #	print(regular_mean)
 	std = sqrt((square_mean - (regular_mean ** 2)))
 	print(std)
-	pass
+	return std
 	
 def Charles_StdDev_Normal(L: list) -> float:
 	std = 0
