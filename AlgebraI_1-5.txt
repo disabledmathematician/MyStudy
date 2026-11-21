@@ -1,0 +1,94 @@
+2 - Algebra I
+
+1. An Introduction to the Course
+2. Order of Operations
+3. Percents, Decimals, and Fractions
+4. Variables and Algebraic Expressions
+5. Operations and Expressions
+6. Principles of Graphing in 2 Dimensions
+7. Solving Linear Equations, Part 1
+8. Solving Linear Equations, Part 2
+9. Slope of a Line
+10. Graphing Linear Equations, Part 1
+11. Graphing Linear Equations, Part 2
+12. Parallel and Perpendicular Lines
+13. Solving Word Problems with Linear Equations
+14. Linear Equations for Real-World Data
+15. Systems of Linear Equations, Part 1
+16. Systems of Linear Equations, Part 2
+17. Linear Inequalities
+18. An Introduction to Quadratic Polynomials
+19. Factoring Trinomials
+ 20. Quadratic Equations—Factoring
+21. Quadratic Equations—The Quadratic Formula
+22. Quadratic Equations—Completing the Square
+23. Representations of Quadratic Functions
+24. Quadratic Equations in the Real World
+25. The Pythagorean Theorem
+26. Polynomials of Higher Degree
+27. Operations and Polynomials
+28. Rational Expressions, Part 1
+29. Rational Expressions, Part 2                     
+30. Graphing Rational Functions, Part 1
+31. Graphing Rational Functions, Part 2
+32. Radical Expressions
+33. Solving Radical Equations
+34. Graphing Radical Functions
+35. Sequences and Pattern Recognition, Part 1
+36. Sequences and Pattern Recognition, Part 2
+
+Charles Truscott Watters
+disabledmathematician@gmail.com
+
+Signed Numbers
+Absolute Value
+Operations with Signed Numbers
+Fractions
+
+DEFINITIONS
+
+- Absolute Value
+
+Order of Operations
+
+DEFINITIONS
+
+- Sum
+- Difference
+- Product
+- Quotient
+- Exponent
+
+PEMDAS
+
+Percents
+Decimals
+Fractions
+Conversion between Percents, Decimals and Fractions
+
+DEFINITIONS
+
+- Percent
+- Decimal
+- Fraction
+- Numerator
+- Denominator
+
+Definitions: Algebraic Expression, Variable, Equation
+
+Translate words into an Algebraic expression
+Translate a word problem into an Equation
+
+DEFINITIONS:
+
+- Algebraic Expression
+- Variable
+- Equation
+
+Simplifying Algebraic Expressions
+Evaluate Algebraic Expressions by plugging in a number
+Adding, Subtracting, Multiplying and Dividing Terms
+
+
+Charles Truscott Watters
+disabledmathematician@gmail.com

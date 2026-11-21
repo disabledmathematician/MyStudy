@@ -1,0 +1,82 @@
+3 - Algebra II
+
+01. An Introduction to Algebra II
+02. Solving Linear Equations
+03. Solving Equations Involving Absolute Values
+04. Linear Equations and Functions
+05. Graphing Essentials.
+06. Functions—Introduction, Examples, Terminology
+07. Systems of 2 Linear Equations, Part 1
+08. Systems of 2 Linear Equations, Part 2
+09. Systems of 3 Linear Equations
+10. Solving Systems of Linear Inequalities
+11. An Introduction to Quadratic Functions
+12. Quadratic Equations—Factoring
+13. Quadratic Equations—Square Roots
+14. Completing the Square
+15. Using the Quadratic Formula
+16. Solving Quadratic Inequalities
+17. Conic Sections—Parabolas and Hyperbolas
+18. Conic Sections—Circles and Ellipses
+19. An Introduction to Polynomials
+20. Graphing Polynomial Functions
+21. Combining Polynomials.
+22. Solving Special Polynomial Equations
+23. Rational Roots of Polynomial Equations
+24. The Fundamental Theorem of Algebra
+25. Roots and Radical Expressions
+26. Solving Equations Involving Radicals
+27. Graphing Power, Radical, and Root Functions
+28. An Introduction to Rational Functions
+29. The Algebra of Rational Functions
+30. Partial Fractions
+31. An Introduction to Exponential Functions
+32. An Introduction to Logarithmic Functions
+33. Uses of Exponential and Logarithmic Functions
+34. The Binomial Theorem
+35. Permutations and Combinations
+36. Elementary Probability
+
+Charles Truscott Watters
+disabledmathematician@gmail.com
+
+Order of Operations
+Laws of Exponents
+
+Understanding the idea of a solution of a linear equation
+Learning how to solve a variety of Linear Equations
+
+DEFINITIONS
+
+- Identity
+- Solution of a Linear Equation
+
+Understanding the idea of Absolute Values (In relation to the real number line)
+Learning how to solve Equations that involve absolute values
+
+DEFINITIONS
+
+- Absolute Value
+- Extraneous Solution
+- Origin
+
+Linear Equations and Functions
+
+The Slope-Intercept Formula and the Point-Slope Formula for Lines
+The Concept of Parallel Lines & How to Identify Them
+The Concept of Perpendicular Lines & How to Identify Them
+
+DEFINITIONS
+
+- Parallel
+- Perpendicular Lines
+- Point-Slope Form
+- Slope-Intercept Form
+
+Sketching the Graph of a Line Given Its Equation
+
+Learning Different Ways to Transform the Graph of One Function into the Graph of Another Function by Shifting the Graph to the Left or Right - And possibly even flipping the Graph around its Axes
+
+Charles Truscott Watters
+disabledmathematician@gmail.com
+

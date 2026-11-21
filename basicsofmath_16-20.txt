@@ -1,0 +1,123 @@
+
+Numbers Raised to a Fractional Power
+Numbers Raised to a Negative Power
+
+DEFINITIONS
+
+- Square Root of a Number
+- Square Root
+
+FORMULAS AND RULES
+
+- Rule of Fractional Exponents
+- Rule of Negative Exponents
+
+The Coordinate Plane
+Definitions of Terms
+The x-Axis and y-Axis
+Ordered Pairs
+Plotting Ordered Pairs
+Graphing Lines on the Coordinate Plane
+Finding the Midpoint of a Line Segment
+
+DEFINITIONS
+
+- Cartesian Plane
+- Coordinate
+- Coordinate Plane
+- Midpoint
+- Ordered Pair
+- Origin
+- Quadrant
+- Slope
+- x-Axis
+- y-Axis
+
+FORMULAS & RULES
+
+- Midpoint of a Line Segment
+- Slope of a Straight Line
+
+Polygons
+Triangles
+Right Angles
+The Area and Perimeter of Triangles
+Parallelograms
+The Area and Perimeter of Parallelograms
+
+DEFINITIONS
+
+- Equiangular Triangle
+- Equilateral Triangle
+- Isosceles Triangle
+- Obtuse Triangle
+- Parallelogram
+- Quadrilateral
+- Rectangle
+
+- Right Angle
+- Right Triangle
+- Scalene Triangle
+- Square
+- Triangle
+- Vertex
+
+FORMULAS AND RULES
+
+- Parallelograms
+- Triangles
+
+Polygons with Many Sides
+Regular Polygons
+The sum of angles in a regular Polygons
+Circles
+The radius and diameter of a circle
+The circumference and area of a circle
+
+DEFINITIONS
+
+- Centre of the Circle
+- Circle
+- Circumference
+- Decagon
+- Diameter
+- Equiangular
+- Equilateral
+- Heptagon
+- Hexagon
+- Nonagon
+- Octagon
+- Pentagon
+- Pi
+- Radius
+- Regular Polygon
+
+FORMULAS & RULES
+
+- Area of a Circle
+- Circumference of a Circle
+- Sum of Degrees for a Regular Polygon
+
+Divisors & Factors
+Prime Numbers
+Prime Factorisation
+Greatest Common Divisors
+Least Common Factors
+Least Common Denominator
+
+DEFINITIONS
+
+- Divisor
+- Factor
+- Greatest Common Divisor (GCD)
+- Least Common Multiple (LCM)
+- Number Theory
+- Prime Factorisation
+- Prime Number
+
+FORMULAS & RULES
+
+- Finding the Greatest Common Factor
+- Finding the Least Common Denominator
+
+

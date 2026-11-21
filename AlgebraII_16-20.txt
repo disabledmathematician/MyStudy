@@ -1,0 +1,61 @@
+The definition of a Quadratic Inequality
+Solving Quadratic Inequalities
+Solving Systems of Quadratic Inequalities
+
+DEFINITIONS & FORMULAS
+
+Quadratic Inequality
+
+General History of Conic Sections
+Geometric Definition of Parabolas and Hyperbolas
+Equations related to Parabolas and Hyperbolas
+
+DEFINITIONS & FORMULAS
+
+Directix
+Focus
+Hyperbola
+Parabola
+Standard Form of the Equation of a Hyperbola
+Vertices
+Asymptotes
+
+Continued Discussion of Conic Sections
+
+Ellipses
+Circles
+
+DEFINITIONS & FORMULAS
+
+Centre of the Circle
+Circle
+Eccentricity of the Ellipse
+Ellipse
+Major / Minor Axis of the Ellipse
+Vertices of the Ellipse
+
+Standard Form of the Equation of an Ellipse
+Standard Form of the Equation of a Circle
+
+The definition of a Polynomial
+The degree of a Polynomial
+Classifying Polynomials by:
+- Degree
+- Number of Terms
+
+Evaluating a Polynomial at a Value of the Variable
+
+DEFINITIONS & FORMULAS
+
+Degree of a Polynomial
+Leading Coefficient of a Polynomial
+Polynomial
+Standard Form of a Polynomial
+
+Monomial, Binomial, Trinomial
+
+Linear, Quadratic, cubic, Quartic, quintic Polynomials 
+
+Graphs of Polynomials
+The behaviour of the "ends" of the Graph of a Polynomial
+The number of x-Intercepts of a Graph of a Polynomial

@@ -1,0 +1,31 @@
+Connecting Radicals to Rational Exponents
+Solving Equations that Involve Radicals or Rational Exponents
+Checking for extraneous solutions to an Equation
+
+DEFINITIONS & FORMULAS
+
+Extraneous Solution
+
+Determining the Domain of a Function that Involves Rational Powers or Radicals
+Plotting Graphs of Functions that Involve Rational Powers or Radicals
+
+The definition of a Rational Function
+The domain of a Rational function
+Horizontal and vertical asymptotes
+Graphs of Rational Functions
+
+DEFINITIONS & FORMULAS
+
+Domain of a Rational Function
+Rational Function
+
+Combining Rational Functions using Addition, Subtraction, Multiplication, Division and Composition
+
+Partial Fracrions
+
+DEFINITIONS & FORMULAS
+
+Method of Partial Fractions
+Basic Methods of Partial Fractions
+Repeated Linear Term in the Denominator
+Irreducible Quadratic Term in the Denominator

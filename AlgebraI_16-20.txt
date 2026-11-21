@@ -1,0 +1,47 @@
+Solving Linear Equations by Elimination
+
+When Solving systems of Linear Equations we sometimes need to manipulate the numbers to eliminate a variable. Once we have done the elimination, we can use substitution.
+
+We eliminate by combining the two Equations in such a way that one of the variables goes away
+
+- Simple Addition or Subtraction
+- Multiplying the Equations
+
+Vertically aligning the like terms, changing the signs of the second equation
+
+Basic properties of inequalities
+Inequalities on the number line
+Graphing inequalities in the Cartesian Plane
+
+The form of Quadratic Equations
+Parabolas - the Graphs of Quadratic Equations
+Simplifying Expressions
+Factoring out a GCF (Greatest Common Factor)
+The FOIL Method
+
+DEFINITIONS & FORMULAS
+
+Quadratic Equation
+Parabolas
+
+Finding Solutions for Quadratic Equations
+Zeros of the Equation
+Factoring Quadratic Equations
+
+DEFINITIONS & FORMULAS
+
+Zeros of the Equation
+Binomial
+Trinomial
+
+
+Factoring Quadratic Polynomials that have no constant
+Factoring the difference of two Squares
+Factoring perfect Trinomials
+
+DEFINITIONS & FORMULAS
+
+Constant term
+Perfect Square trinomials
+Difference of Two Squares
+

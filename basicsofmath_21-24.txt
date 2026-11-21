@@ -1,0 +1,73 @@
+Even & Odd Numbers
+Parity
+Divisibility Properties
+Divisibility Shortcuts
+
+DEFINITIONS
+
+- Even Number
+- Odd Number
+- Parity
+
+FORMULAS & RULES
+
+- Addition and Subtraction Parity
+- Divisibility Rules:
+  - For 2
+  - For 3
+  - For 4
+  - For 5
+  - For 8
+  - For 9
+  - For 11
+
+- Multiplication Parity 
+
+Mean
+Median
+Mode
+Range
+
+DEFINITIONS
+
+- Mean
+- Median
+- Mode
+- Range
+
+
+Historical Background of Probability
+Sample Space & Outcome
+Multiplication Principle
+Calculating Probability
+Theoretical Probability
+
+DEFINITIONS
+
+- Multiplication Principle
+- Outcome
+- Sample Space
+
+FORMULAS & RULES
+
+- Theoretical Probability
+
+Variables & Exponents
+Adding Algebraic Expressions
+Multiplying Algebraic Expressions
+Dividing Algebraic Expressions
+
+DEFINITIONS
+
+- Algebraic Expression
+- Numerical Coefficient
+- Variable
+
+FORMULAS & RULES
+
+- Adding Expressions with Variables
+- Dividing Expressions with Variables
+- Multiplying Expressions with Variables
+
+
+

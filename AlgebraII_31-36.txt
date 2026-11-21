@@ -1,0 +1,67 @@
+The definition of an Exponential Function
+Graphs of Exponential Functions
+The difference between Exponential Functions that grow and those that decay
+
+DEFINITIONS & FORMULAS
+
+Base (of a logarithm)
+Decay Factor
+Exponential Function
+Growth Factor
+
+An Introduction to Logarithmic Functions
+Properties of Logarithms
+Graphs of Logarithms
+
+DEFINITIONS & FORMULAS
+
+Logarithm
+Properties of Logarithms
+
+The change of base formula
+Solving Equations that contain Exponential or Logarithmic Functions
+Solving problems that involve continuous Compound interest (the PERT formula)
+
+DEFINITIONS & FORMULAS
+
+Change of Base Formula
+
+PERT Formula
+
+Pascal's Triangle
+The Binomial Theorem
+The formula for each Value in Pascal's Triangle, Often denoted C(n, r)
+The factorial function
+Expanding the powers of a Binomial
+
+DEFINITIONS & FORMULAS
+
+Binomial Theorem
+Factorial Function
+Formula for Elements of Pascal's Triangle
+
+Permutations
+Combinations
+The Multiplication Principle
+
+DEFINITIONS & FORMULAS
+
+Combination
+Multiplication Principle
+Permutation
+
+
+Sample spaces & outcomes
+The theoretical probability of events
+
+DEFINITIONS & FORMULAS 
+
+Sample Space
+Theoretical Probability
+
+
+
+
+
+
+

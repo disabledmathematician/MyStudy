@@ -1,0 +1,37 @@
+The Concept of a Function
+The meaning of Domain and Range of a Function & How to Identify Them
+The vertical line test which helps is identify from the graph whether an Equation is a function
+
+DEFINITIONS 
+
+Composition of Two Functions
+Domain of a Function
+Function
+Range of a Function
+Vertical Line Test
+
+The Concept of a system of Linear Equations and what a solution of such a system means
+
+Envisioning a solution of a system of Linear Equations by Graphing
+
+Using graphing to solve a system of Linear Equations
+
+DEFINITIONS & FORMULAS
+
+Dependent System
+Inconsistent System
+Independent System
+Solution of a System of Linear Equations
+
+Solving systems of Linear Equations with the methods of Substitution and Elimination
+
+Solving systems of Linear Equations with 3 Variables
+
+Graphing the Solution Set of One Inequality
+Solving Systems of Linear Inequalities
+
+DEFINITIONS & FORMULAS
+
+Strict Inequality
+
+

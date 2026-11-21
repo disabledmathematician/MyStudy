@@ -1,0 +1,105 @@
+1 - Basics of Mathematics
+
+1. Addition and Subtraction
+2. Multiplication
+3. Long Division
+4. Introduction to Fractions
+5. Adding and Subtracting Fractions
+6. Multiplying Fractions
+7. Dividing Fractions
+8. Adding and Subtracting Decimals
+9. Multiplying and Dividing Decimals
+10. Fractions, Decimals, and Percents
+11. Percent Problems
+12. Ratios and Proportions
+13. Exponents and Order of Operations
+14. Negative and Positive Integers
+15. Introduction to Square Roots
+16. Negative and Fractional Powers
+17. Graphing in the Coordinate Plane
+18. Geometry—Triangles and Quadrilaterals
+19. Geometry—Polygons and Circles
+20. Number Theory—Prime Numbers and Divisors
+21. Number Theory—Divisibility Tricks
+22. Introduction to Statistics
+23. Introduction to Probability
+24. Introduction to Algebra
+
+Charles Truscott Watters
+
+Place value
+Adding whole numbers
+Subtracting whole numbers
+Carrying
+Borrowing
+
+DEFINITIONS
+
+- Borrow
+- Carry
+- Digit
+- Place Value
+- Whole Number
+
+Determining how addition and multiplication are related
+Multiplying whole numbers
+
+DEFINITIONS
+
+- Times
+- Units digit
+- Whole Number
+
+The meaning of Division
+Division of Whole Numbers
+Long Division with a 1-Digit Divisor
+Division with remainder
+
+DEFINITIONS
+
+- Dividend
+- Divisor
+- Quotient
+- Remainder
+
+Definition of Fractions
+Numerator & Denominator
+Equivalent Fractions
+Reducing Fractions
+Improper Fractions
+Mixed Numbers
+
+Converting from a Mixed Number to an Improper Fraction
+Converting from an Improper Fraction to a Mixed Number
+
+DEFINITIONS
+
+- Denominator
+- Equivalent Fractions
+- Fraction
+- Improper Fraction
+- Mixed number
+- Numerator
+- Reducing
+
+
+Adding and Subtracting Fractions with Like Denominators
+Finding Lowest Common Denominators
+Adding and Subtracting Fractions with Unlike Denominators
+
+DEFINITIONS
+
+- Denominator
+- Factor
+- Fraction
+- Improper Fraction
+- Least Common Denominator
+- Like Denominators
+- Mixed Number
+- Multiples of a Number
+- Numerator
+- Reducing
+
+
+Charles Truscott Watters
+disabledmathematician@gmail.com
